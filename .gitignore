@@ -1,0 +1,12 @@
+*__pycache__
+/venv/
+/sb-venv/
+/xml/
+/.idea/
+/.env
+/config.py
+/summarybot.sqlite3
+/summarybot.log
+/summarybot.log.1
+/summarybot.log.2
+/summarybot.out
